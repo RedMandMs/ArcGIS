@@ -6,10 +6,12 @@
 			<item value="rudfszg"/>
 		</list>
 		<list key="name">
+			<item value="GeocodingApp"/>
 			<item value="TestArcGIS"/>
 			<item value="fasg"/>
 		</list>
 		<list key="artifactId">
+			<item value="GeocodingApp"/>
 			<item value="sergey.tests.arcgis"/>
 			<item value="asdf"/>
 		</list>
@@ -25,8 +27,38 @@
 			<item value="1.0.0-SNAPSHOT"/>
 		</list>
 	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.MavenProjectSelectionDialog">
+		<item value="480" key="width"/>
+		<item value="761" key="x"/>
+		<item value="193" key="y"/>
+		<item value="450" key="height"/>
+	</section>
 	<section name="MavenProjectWizardArchetypePage">
 		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+		</list>
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+			<item value="GeocodingApp"/>
+		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
@@ -48,10 +80,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="org.GeocodingApp"/>
 		</list>
 		<list key="groupId">
+			<item value="ru.lenoblgis"/>
 		</list>
 		<list key="artifactId">
+			<item value="GeocodingApp"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

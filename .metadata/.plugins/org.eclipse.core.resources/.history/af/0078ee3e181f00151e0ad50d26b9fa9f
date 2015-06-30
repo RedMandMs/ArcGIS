@@ -1,0 +1,5 @@
+package ru.lenoblgis.sergey.tests.arcgis.geocoding;
+
+public class PlaceSearch {
+
+}

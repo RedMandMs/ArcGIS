@@ -3,7 +3,6 @@
 <fullyQualifiedTypeName name="ru.lenoblgis.sergey.tests.arcgis.Main"/>
 <fullyQualifiedTypeName name="javax.swing.JFrame"/>
 <fullyQualifiedTypeName name="java.awt.BorderLayout"/>
-<fullyQualifiedTypeName name="com.esri.map.JMap"/>
 <fullyQualifiedTypeName name="java.awt.event.WindowAdapter"/>
 <fullyQualifiedTypeName name="com.sun.glass.events.WindowEvent"/>
 <fullyQualifiedTypeName name="java.awt.event.WindowEvent"/>
@@ -11,10 +10,24 @@
 <fullyQualifiedTypeName name="com.esri.core.geometry.Envelope"/>
 <fullyQualifiedTypeName name="com.esri.map.GraphicsLayer"/>
 <fullyQualifiedTypeName name="com.esri.map.MapEventListener"/>
-<fullyQualifiedTypeName name="com.esri.map.MapEvent"/>
 <fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="com.esri.core.geometry.Point"/>
 <fullyQualifiedTypeName name="com.esri.core.geometry.GeometryEngine"/>
 <fullyQualifiedTypeName name="com.esri.core.map.Graphic"/>
 <fullyQualifiedTypeName name="com.esri.core.symbol.PictureMarkerSymbol"/>
+<fullyQualifiedTypeName name="com.esri.map.JMap"/>
+<fullyQualifiedTypeName name="com.esri.core.portal.Portal"/>
+<fullyQualifiedTypeName name="com.esri.core.portal.WebMap"/>
+<fullyQualifiedTypeName name="com.esri.map.LayerListEventListenerAdapter"/>
+<fullyQualifiedTypeName name="com.esri.map.LayerEvent"/>
+<fullyQualifiedTypeName name="com.esri.toolkit.overlays.InfoPopupOverlay"/>
+<fullyQualifiedTypeName name="com.esri.map.Layer"/>
+<fullyQualifiedTypeName name="com.esri.map.ArcGISFeatureLayer"/>
+<fullyQualifiedTypeName name="com.esri.map.GroupLayer"/>
+<fullyQualifiedTypeName name="com.esri.toolkit.bookmarks.JExtentBookmark"/>
+<fullyQualifiedTypeName name="com.esri.map.MapEventListenerAdapter"/>
+<fullyQualifiedTypeName name="com.esri.map.MapEvent"/>
+<fullyQualifiedTypeName name="com.esri.core.tasks.geocode.Locator"/>
+<fullyQualifiedTypeName name="javax.swing.JLayeredPane"/>
+<fullyQualifiedTypeName name="java.awt.Component"/>
 </qualifiedTypeNameHistroy>

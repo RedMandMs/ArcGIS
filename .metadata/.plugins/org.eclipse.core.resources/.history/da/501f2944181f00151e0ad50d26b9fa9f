@@ -1,0 +1,23 @@
+package ru.lenoblgis.sergey.tests.arcgis.geocoding;
+
+import com.esri.core.symbol.PictureMarkerSymbol;
+import com.esri.core.tasks.geocode.Locator;
+import com.esri.map.GraphicsLayer;
+
+public class PlaceSearch {
+
+	// application fields
+	private GraphicsLayer locationLayer;
+	private PictureMarkerSymbol locationSymbol;
+	private Locator locator;
+	
+	public PlaceSearch() {
+		locationLayer = new GraphicsLayer();
+		map.getLayers().add(locationLayer);
+
+		// locator set up
+		locator = Locator.createOnlineLocator(GEOCODE_URL);
+	}
+	
+	
+}

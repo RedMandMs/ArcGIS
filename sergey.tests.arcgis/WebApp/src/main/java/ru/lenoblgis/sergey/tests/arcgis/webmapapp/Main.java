@@ -91,7 +91,6 @@ public class Main {
 		  map.addMapEventListener(new MapEventListenerAdapter() {
 			  @Override
 			  public void mapReady(MapEvent event) {
-			    extentBookmarks.addBookmarks(webMap.getBookmarks());
 			  }
 			});
 		  
