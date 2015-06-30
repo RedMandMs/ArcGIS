@@ -1,16 +1,4 @@
 INDEX VERSION 1.127+C:\Projects\ArcGIS\.metadata\.plugins\org.eclipse.jdt.core
-2391588748.index
-2992927453.index
-3256245247.index
 2340231778.index
-698036595.index
-2020502327.index
-2073329913.index
-4243199154.index
-3594955302.index
-4283307967.index
-3608649587.index
-1681996824.index
-1487785393.index
-3445116181.index
-2377643561.index
+3283371928.index
+2692405746.index

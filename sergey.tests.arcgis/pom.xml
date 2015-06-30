@@ -7,5 +7,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>Descktop</module>
+  	<module>WebApp</module>
   </modules>
 </project>
