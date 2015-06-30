@@ -1,0 +1,88 @@
+package ru.lenoblgis.sergey.tests.arcgis;
+
+import java.awt.BorderLayout;
+import java.awt.event.WindowAdapter;
+import java.awt.event.WindowEvent;
+
+import javax.swing.JFrame;
+
+import com.esri.core.geometry.Envelope;
+import com.esri.core.geometry.GeometryEngine;
+import com.esri.core.geometry.Point;
+import com.esri.core.geometry.SpatialReference;
+import com.esri.core.map.Graphic;
+import com.esri.core.symbol.PictureMarkerSymbol;
+import com.esri.map.ArcGISTiledMapServiceLayer;
+import com.esri.map.GraphicsLayer;
+import com.esri.map.JMap;
+import com.esri.map.MapEvent;
+import com.esri.map.MapEventListenerAdapter;
+
+public class Main {
+	
+	GraphicsLayer graphicsLayer = new GraphicsLayer();
+	
+	final JMap map = new JMap();
+	
+	public static void main(String args[]){
+		Main main = new Main();
+		main.go();
+	}
+
+	private void go() {
+		JFrame window = new JFrame();
+		window.setSize(800, 600);
+		window.setLocationRelativeTo(null); // center on screen
+		window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		window.getContentPane().setLayout(new BorderLayout());
+		window.setVisible(true);
+
+		window.getContentPane().add(map, BorderLayout.CENTER);
+		
+		// dispose map just before application window is closed.
+		window.addWindowListener(new WindowAdapter() {
+		  @Override
+		  public void windowClosing(WindowEvent windowEvent) {
+		    super.windowClosing(windowEvent);
+		    map.dispose();
+		  }
+		});
+		
+		ArcGISTiledMapServiceLayer tiledLayer = new ArcGISTiledMapServiceLayer(
+				  "http://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer");
+		
+		// add tiled layer to map
+		map.getLayers().add(tiledLayer);
+		
+		// set the map extent to Edinburgh, Scotland
+		map.setExtent(new Envelope(-371147, 7536055, -341260, 7557266));
+		
+		graphicsLayer.setName("Marker graphics");
+		
+		map.getLayers().add(graphicsLayer);
+		
+		map.addMapEventListener(new MapEventListenerAdapter() {
+
+			  @Override
+			  public void mapReady(MapEvent event) {
+				// get the spatial reference from the map that fired this event
+				SpatialReference mapSR = event.getMap().getSpatialReference();
+				// print the spatial reference's ID
+				System.out.println("The map spatial reference is wkid=" + mapSR.getID());
+				
+				// create a Point in the map's spatial reference from lon, lat coordinates
+			    Point point = GeometryEngine.project(43.9761, 53.1919, mapSR);
+			    
+			    // create a PictureMarkerSymbol from a URL
+			    PictureMarkerSymbol symbol = new PictureMarkerSymbol(
+			      "http://eralash-clan.ru/images/250px-Gold_Storage11.png");
+			    
+			 // create a graphic using the point and symbol
+			    Graphic pointGraphic = new Graphic(point, symbol);
+			    
+			    // add the graphic to your graphics layer
+			    graphicsLayer.addGraphic(pointGraphic);
+			  }
+			}); // semi-colon to add
+	}
+}

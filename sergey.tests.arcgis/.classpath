@@ -28,6 +28,5 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="con" path="com.esri.arcgis.javase.core.project.ARCGIS_RUNTIME_JAVA_SDK_DEPENDS/C|/Users/vilgodskiy/.eclipse/org.eclipse.platform_4.4.2_881157606_win32_win32_x86_64/configuration/org.eclipse.osgi/845/0/.cp/lib/"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

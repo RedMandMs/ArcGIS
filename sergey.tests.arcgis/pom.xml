@@ -4,4 +4,8 @@
   <artifactId>sergey.tests.arcgis</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>TestArcGIS</name>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>Descktop</module>
+  </modules>
 </project>

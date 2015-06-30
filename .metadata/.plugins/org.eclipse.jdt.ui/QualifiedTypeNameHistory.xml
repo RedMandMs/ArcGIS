@@ -1,2 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="ru.lenoblgis.sergey.tests.arcgis.Main"/>
+<fullyQualifiedTypeName name="javax.swing.JFrame"/>
+<fullyQualifiedTypeName name="java.awt.BorderLayout"/>
+<fullyQualifiedTypeName name="com.esri.map.JMap"/>
+<fullyQualifiedTypeName name="java.awt.event.WindowAdapter"/>
+<fullyQualifiedTypeName name="com.sun.glass.events.WindowEvent"/>
+<fullyQualifiedTypeName name="java.awt.event.WindowEvent"/>
+<fullyQualifiedTypeName name="com.esri.map.ArcGISTiledMapServiceLayer"/>
+<fullyQualifiedTypeName name="com.esri.core.geometry.Envelope"/>
+<fullyQualifiedTypeName name="com.esri.map.GraphicsLayer"/>
+<fullyQualifiedTypeName name="com.esri.map.MapEventListener"/>
+<fullyQualifiedTypeName name="com.esri.map.MapEvent"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.esri.core.geometry.Point"/>
+<fullyQualifiedTypeName name="com.esri.core.geometry.GeometryEngine"/>
+<fullyQualifiedTypeName name="com.esri.core.map.Graphic"/>
+<fullyQualifiedTypeName name="com.esri.core.symbol.PictureMarkerSymbol"/>
+</qualifiedTypeNameHistroy>

@@ -1661,3 +1661,631 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-29 16:38:33.336
 !MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-29 17:00:21.918
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-29 17:00:21.918
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-29 17:01:10.767
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-29 17:01:10.767
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-29 17:03:06.356
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-29 17:03:06.356
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-29 17:07:13.142
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-29 17:07:13.144
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2015-06-30 11:26:47.864 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-06-30 11:27:03.664
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-06-30 11:27:03.679
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\vilgodskiy'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.zeroturnaround.eclipse.optimizer.plugin 1 0 2015-06-30 11:27:05.319
+!MESSAGE location of launcher INI: C:\Program Files\eclipse luna\eclipse\eclipse.ini
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:08.113
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-clean-plugin~2.5: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-clean-plugin~2.5.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:08.191
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:08.253
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:08.316
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:08.378
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:08.441
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-surefire-plugin~2.12.4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-surefire-plugin~2.12.4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:08.503
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-jar-plugin~2.4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-jar-plugin~2.4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:08.566
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-install-plugin~2.4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-install-plugin~2.4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:08.628
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-deploy-plugin~2.7: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-deploy-plugin~2.7.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:08.691
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-site-plugin~3.3: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-site-plugin~3.3.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:08.769
+!MESSAGE Failed to create parent directories for tracking file C:\Program Files\Apache\Maven\repository\org\apache\maven\plugins\maven-site-plugin\3.3\maven-site-plugin-3.3.jar.lastUpdated
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:08.847
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:08.925
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-plugins~22: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-plugins~22.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:08.987
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-parent~21: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-parent~21.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:09.050
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache~apache~10: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache~apache~10.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:09.128
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:09.222
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:09.284
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-plugin-api~2.0.9: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-plugin-api~2.0.9.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:09.362
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven~2.0.9: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven~2.0.9.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:09.425
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-parent~8: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-parent~8.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:09.503
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache~apache~4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache~apache~4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:09.597
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-artifact~2.0.9: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-artifact~2.0.9.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:09.659
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-utils~1.5.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-utils~1.5.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:09.722
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus~1.0.11: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus~1.0.11.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:09.784
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-core~2.0.9: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-core~2.0.9.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:09.862
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-settings~2.0.9: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-settings~2.0.9.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:09.925
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-model~2.0.9: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-model~2.0.9.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:09.987
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-plugin-parameter-documenter~2.0.9: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-plugin-parameter-documenter~2.0.9.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:10.050
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-profile~2.0.9: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-profile~2.0.9.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:10.112
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-repository-metadata~2.0.9: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-repository-metadata~2.0.9.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:10.174
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-error-diagnostics~2.0.9: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-error-diagnostics~2.0.9.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:10.237
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-project~2.0.9: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-project~2.0.9.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:10.315
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-artifact-manager~2.0.9: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-artifact-manager~2.0.9.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:10.393
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-plugin-registry~2.0.9: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-plugin-registry~2.0.9.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:10.456
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-plugin-descriptor~2.0.9: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-plugin-descriptor~2.0.9.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:10.534
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-monitor~2.0.9: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-monitor~2.0.9.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:10.612
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-toolchain~1.0: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-toolchain~1.0.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:10.690
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven~2.0.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven~2.0.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:10.752
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-parent~5: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-parent~5.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:10.815
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache~apache~3: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache~apache~3.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:10.877
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-core~2.0.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-core~2.0.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:10.940
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-settings~2.0.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-settings~2.0.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:11.002
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-model~2.0.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-model~2.0.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:11.065
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-utils~1.4.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-utils~1.4.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:11.127
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-container-default~1.0-alpha-9-stable-1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-container-default~1.0-alpha-9-stable-1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:11.190
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-containers~1.0.3: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-containers~1.0.3.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:11.252
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus~1.0.4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus~1.0.4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:11.315
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\junit~junit~3.8.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\junit~junit~3.8.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:11.377
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-utils~1.0.4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-utils~1.0.4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:11.440
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\classworlds~classworlds~1.1-alpha-2: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\classworlds~classworlds~1.1-alpha-2.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:11.502
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-plugin-parameter-documenter~2.0.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-plugin-parameter-documenter~2.0.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:11.565
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.reporting~maven-reporting-api~2.0.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.reporting~maven-reporting-api~2.0.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:11.627
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.reporting~maven-reporting~2.0.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.reporting~maven-reporting~2.0.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:11.690
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.doxia~doxia-sink-api~1.0-alpha-7: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.doxia~doxia-sink-api~1.0-alpha-7.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:11.752
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.doxia~doxia~1.0-alpha-7: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.doxia~doxia~1.0-alpha-7.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:11.815
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-profile~2.0.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-profile~2.0.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:11.877
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-artifact~2.0.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-artifact~2.0.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:11.940
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-repository-metadata~2.0.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-repository-metadata~2.0.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:12.002
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-error-diagnostics~2.0.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-error-diagnostics~2.0.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:12.064
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-project~2.0.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-project~2.0.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:12.127
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-artifact-manager~2.0.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-artifact-manager~2.0.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:12.189
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-plugin-registry~2.0.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-plugin-registry~2.0.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:12.252
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\commons-cli~commons-cli~1.0: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\commons-cli~commons-cli~1.0.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:12.314
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-plugin-api~2.0.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-plugin-api~2.0.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:12.377
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-plugin-descriptor~2.0.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-plugin-descriptor~2.0.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:12.439
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-interactivity-api~1.0-alpha-4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-interactivity-api~1.0-alpha-4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:12.502
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-monitor~2.0.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-monitor~2.0.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:12.564
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\classworlds~classworlds~1.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\classworlds~classworlds~1.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:12.627
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-utils~3.0: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-utils~3.0.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:12.689
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.sonatype.spice~spice-parent~16: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.sonatype.spice~spice-parent~16.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:12.752
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.sonatype.forge~forge-parent~5: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.sonatype.forge~forge-parent~5.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:12.814
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-compiler-api~1.9.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-compiler-api~1.9.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:12.892
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-compiler~1.9.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-compiler~1.9.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:12.955
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-components~1.1.20: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-components~1.1.20.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:13.033
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus~3.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus~3.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:13.111
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.sonatype.spice~spice-parent~17: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.sonatype.spice~spice-parent~17.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:13.173
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.sonatype.forge~forge-parent~10: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.sonatype.forge~forge-parent~10.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:13.236
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-compiler-manager~1.9.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-compiler-manager~1.9.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:13.314
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-compiler-javac~1.9.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-compiler-javac~1.9.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:13.377
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-compilers~1.9.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-compilers~1.9.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:13.470
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\junit~junit~3.8.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\junit~junit~3.8.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:13.533
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:13.595
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-compiler-api~1.9.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-compiler-api~1.9.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:13.658
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-compiler-javac~1.9.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-compiler-javac~1.9.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:13.720
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-compiler-manager~1.9.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-compiler-manager~1.9.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:13.783
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-utils~3.0: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-utils~3.0.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:14.111
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:14.189
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-plugins~23: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-plugins~23.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:14.251
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-parent~22: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-parent~22.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:14.329
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache~apache~11: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache~apache~11.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:14.407
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:14.517
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:14.595
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-utils~2.0.5: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-utils~2.0.5.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:14.657
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus~2.0.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus~2.0.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:14.704
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-clean-plugin~2.5: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-clean-plugin~2.5.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:14.720
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.shared~maven-filtering~1.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.shared~maven-filtering~1.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:14.767
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:14.782
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.shared~maven-shared-components~17: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.shared~maven-shared-components~17.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:14.829
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:14.845
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-utils~1.5.15: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-utils~1.5.15.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:14.892
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:14.907
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus~2.0.2: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus~2.0.2.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:14.954
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:14.970
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-interpolation~1.12: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-interpolation~1.12.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:15.017
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-surefire-plugin~2.12.4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-surefire-plugin~2.12.4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:15.032
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-components~1.1.14: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-components~1.1.14.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:15.079
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-jar-plugin~2.4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-jar-plugin~2.4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:15.095
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.sonatype.plexus~plexus-build-api~0.0.4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.sonatype.plexus~plexus-build-api~0.0.4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:15.142
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-install-plugin~2.4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-install-plugin~2.4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:15.157
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.sonatype.spice~spice-parent~10: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.sonatype.spice~spice-parent~10.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:15.204
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-deploy-plugin~2.7: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-deploy-plugin~2.7.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:15.220
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.sonatype.forge~forge-parent~3: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.sonatype.forge~forge-parent~3.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:15.267
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-site-plugin~3.3: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-site-plugin~3.3.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:15.267
+!MESSAGE Failed to create parent directories for tracking file C:\Program Files\Apache\Maven\repository\org\apache\maven\plugins\maven-site-plugin\3.3\maven-site-plugin-3.3.jar.lastUpdated
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:15.282
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-utils~1.5.8: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-utils~1.5.8.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:15.345
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-interpolation~1.13: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-interpolation~1.13.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:15.407
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-components~1.1.15: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-components~1.1.15.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:15.470
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus~2.0.3: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus~2.0.3.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:15.532
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\commons-cli~commons-cli~1.0: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\commons-cli~commons-cli~1.0.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:15.594
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\junit~junit~3.8.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\junit~junit~3.8.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:15.657
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.doxia~doxia-sink-api~1.0-alpha-7: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.doxia~doxia-sink-api~1.0-alpha-7.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:15.719
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:15.782
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.reporting~maven-reporting-api~2.0.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.reporting~maven-reporting-api~2.0.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:15.844
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.shared~maven-filtering~1.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.shared~maven-filtering~1.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:15.907
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-interactivity-api~1.0-alpha-4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-interactivity-api~1.0-alpha-4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:15.969
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-interpolation~1.13: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-interpolation~1.13.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:16.032
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-utils~2.0.5: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.codehaus.plexus~plexus-utils~2.0.5.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:16.094
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.sonatype.plexus~plexus-build-api~0.0.4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.sonatype.plexus~plexus-build-api~0.0.4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:16.344
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:16.407
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-plugins~22: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-plugins~22.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:16.469
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-parent~21: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven~maven-parent~21.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:16.532
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache~apache~10: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache~apache~10.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:16.594
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:17.047
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-clean-plugin~2.5: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-clean-plugin~2.5.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:17.110
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:17.172
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:17.235
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:17.297
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:17.360
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-surefire-plugin~2.12.4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-surefire-plugin~2.12.4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:17.422
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-jar-plugin~2.4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-jar-plugin~2.4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:17.484
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-install-plugin~2.4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-install-plugin~2.4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:17.547
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-deploy-plugin~2.7: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-deploy-plugin~2.7.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:17.609
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-site-plugin~3.3: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-site-plugin~3.3.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:17.609
+!MESSAGE Failed to create parent directories for tracking file C:\Program Files\Apache\Maven\repository\org\apache\maven\plugins\maven-site-plugin\3.3\maven-site-plugin-3.3.jar.lastUpdated
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:17.688
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:17.688
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:18.875
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-clean-plugin~2.5: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-clean-plugin~2.5.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:18.937
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:19.000
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:19.062
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:19.125
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:19.187
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-surefire-plugin~2.12.4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-surefire-plugin~2.12.4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:19.249
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-jar-plugin~2.4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-jar-plugin~2.4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:19.312
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-install-plugin~2.4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-install-plugin~2.4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:19.374
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-deploy-plugin~2.7: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-deploy-plugin~2.7.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:19.437
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-site-plugin~3.3: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-site-plugin~3.3.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:19.437
+!MESSAGE Failed to create parent directories for tracking file C:\Program Files\Apache\Maven\repository\org\apache\maven\plugins\maven-site-plugin\3.3\maven-site-plugin-3.3.jar.lastUpdated
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:20.671
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:20.671
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:35.774
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:33:35.774
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:02.503
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-clean-plugin~2.5: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-clean-plugin~2.5.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:02.549
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:02.615
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:02.678
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:02.725
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:02.788
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-surefire-plugin~2.12.4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-surefire-plugin~2.12.4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:02.832
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-jar-plugin~2.4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-jar-plugin~2.4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:02.894
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-install-plugin~2.4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-install-plugin~2.4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:02.957
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-deploy-plugin~2.7: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-deploy-plugin~2.7.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:03.019
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-site-plugin~3.3: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-site-plugin~3.3.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:03.019
+!MESSAGE Failed to create parent directories for tracking file C:\Program Files\Apache\Maven\repository\org\apache\maven\plugins\maven-site-plugin\3.3\maven-site-plugin-3.3.jar.lastUpdated
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:04.191
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:04.191
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:17.424
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-clean-plugin~2.5: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-clean-plugin~2.5.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:17.476
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:17.518
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:17.587
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-resources-plugin~2.6.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:17.650
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-compiler-plugin~2.5.1.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:17.712
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-surefire-plugin~2.12.4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-surefire-plugin~2.12.4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:17.775
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-jar-plugin~2.4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-jar-plugin~2.4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:17.840
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-install-plugin~2.4: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-install-plugin~2.4.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:17.903
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-deploy-plugin~2.7: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-deploy-plugin~2.7.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:17.954
+!MESSAGE Failed to lock file C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-site-plugin~3.3: java.io.FileNotFoundException: C:\Program Files\Apache\Maven\repository\.locks\org.apache.maven.plugins~maven-site-plugin~3.3.aetherlock (Системе не удается найти указанный путь)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:17.956
+!MESSAGE Failed to create parent directories for tracking file C:\Program Files\Apache\Maven\repository\org\apache\maven\plugins\maven-site-plugin\3.3\maven-site-plugin-3.3.jar.lastUpdated
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:18.050
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:18.050
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:32.920
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:37:32.922
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:38:16.844
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:38:16.844
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:40:39.711
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2015-06-30 11:40:39.711
+!MESSAGE Using platform encoding (Cp1251 actually) to copy filtered resources, i.e. build is platform dependent!

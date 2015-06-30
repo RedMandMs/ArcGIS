@@ -3,12 +3,15 @@
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
 			<item value="ru.lenoblgis"/>
+			<item value="rudfszg"/>
 		</list>
 		<list key="name">
 			<item value="TestArcGIS"/>
+			<item value="fasg"/>
 		</list>
 		<list key="artifactId">
 			<item value="sergey.tests.arcgis"/>
+			<item value="asdf"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -18,10 +21,12 @@
 			<item value="[groupId].[artifactId]-[version]"/>
 		</list>
 		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
 			<item value="1.0.0-SNAPSHOT"/>
 		</list>
 	</section>
 	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
 			<item value="[artifactId]-TRUNK"/>
